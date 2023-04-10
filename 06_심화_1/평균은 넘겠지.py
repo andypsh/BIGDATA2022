@@ -12,4 +12,3 @@ for p in range(C):
 for i in res:
     print("%.3f" %i + "%")
 
-#%%
